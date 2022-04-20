@@ -2,7 +2,7 @@
 
 CS 61A: Structure and Interpretation of Computer Programs
 
-Summer 2022 - [website](zhttps://cs61a.org/)
+Summer 2022 - [website](https://cs61a.org/)
 
 ## list
 
