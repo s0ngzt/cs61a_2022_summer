@@ -25,5 +25,5 @@ Summer 2022 - [website](https://cs61a.org/)
 
 + [x] hog
 + [x] cats
-+ [ ] ants
++ [x] ants
 
